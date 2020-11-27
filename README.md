@@ -10,8 +10,6 @@ Terminais leves com LTSP
 Vagrant é um software de código aberto para criar e manter ambientes de desenvolvimento virtuais portáteis, utilizando VirtualBox.
 O vagrant foi utilizado para simplificar a instalação e configuração do ambiente.</p>
 
-## Getting started
-
 <h3>Instalação</h3>
 
 - Clonar o repositorio;
