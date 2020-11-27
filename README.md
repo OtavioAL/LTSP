@@ -10,14 +10,6 @@ Terminais leves com LTSP
 Vagrant é um software de código aberto para criar e manter ambientes de desenvolvimento virtuais portáteis, utilizando VirtualBox.
 O vagrant foi utilizado para simplificar a instalação e configuração do ambiente.</p>
 
-## Features
-[//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
-
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
-
 ## Getting started
 
 <h3>Instalação</h3>
