@@ -28,6 +28,6 @@ O vagrant foi utilizado para simplificar a instalação e configuração do ambi
 
 - Executar o comando vagrant up no terminal.
 
-## License
+## Referências
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details
+Utilizamos como base o projeto de Deepanshu Gajbhiey, em seu projeto de automação de instalação e configuração de um servidor LTSP com Vagrant no Google Summer of Code
