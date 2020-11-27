@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="Logo" width="120">
+  <img src="https://github.com/OtavioAL/LTSP/blob/main/logo.jpg" alt="" width="500">
 <br>
 <br>
 Terminais leves com LTSP
